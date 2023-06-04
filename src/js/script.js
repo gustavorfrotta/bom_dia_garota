@@ -72,6 +72,6 @@ div.appendChild(img);
 //create text inside draw app
 div = document.createElement("div");
 div.classList.add("draw__text");
-div.innerHTML = "<div><small>Bom diaaa Paula <3</small></div><div>Passando para dizer que se eu te olhar cem vezes, em cada uma delas estarei mais caidinho por vc</div>";
+div.innerHTML = "<div><small>Bom diaaa Paula <3 Passando para te desejar uma otima semana</small></div><div>Como sempre, você está linda! Sou mt seu fa Paulinha ;)</div>";
 app.appendChild(div);
 
